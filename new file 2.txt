@@ -1,0 +1,2 @@
+opet nesto na drugi file
+git commit -a -m
