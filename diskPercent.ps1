@@ -11,6 +11,8 @@ Find all disks on the local computer with less than 20% free space.
 
 .Example PS C:\> Get-Disk -comp SERVER02 -minimum 25 
 Find all local disks on SERVER02 with less than 25% free space. 
+
+novi red za Git test
 #>
 Param ( $Computername='localhost', $MinimumPercentFree=10 )
 
